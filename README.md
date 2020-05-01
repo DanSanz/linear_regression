@@ -1,6 +1,6 @@
 # linear_regression
 
-## By the end of the lecture students should be able to:
+## By the end of the lecture students will be able to:
  - Recall the characteristics of linear regression
  - Identify areas of their work they can apply linear regression to
  - Interpret a linear regression function
