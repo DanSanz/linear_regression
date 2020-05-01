@@ -9,5 +9,5 @@
  - Evaluate the quality of a linear regression model
  - Draft a plan of attack for solving one specific problem in your organisation using linear regression
 
-[Slides](https://docs.google.com/presentation/d/1zVb9BGDvLyHvLuMGOY16I2jM-Jbp_xvUCzqWmgM8v_Q/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1zVb9BGDvLyHvLuMGOY16I2jM-Jbp_xvUCzqWmgM8v_Q/edit?usp=sharing)<br>
 [Exit ticket]()
